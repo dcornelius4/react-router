@@ -6,7 +6,7 @@ import {
 } from 'react-router-dom';
 import Red from './Red';
 import Blue from './Blue';
-import Green from '/Green';
+import Green from './Green';
 import Header from './Header';
 
 export default function App() {
